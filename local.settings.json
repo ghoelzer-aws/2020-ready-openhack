@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CosmosDBConnection": "AccountEndpoint=https://contosovideohack2.documents.azure.com:443/;AccountKey=GhV5DPJqzpVs1SByke6LxXporyf2fieXOti2dGr7nByhy4HyvlTl1keuwzW02umCy9l28JOBgi81fAi4oXXDWw==;"
+  }
+}
